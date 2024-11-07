@@ -1,0 +1,16 @@
+Ejercicio 1
+Diseñar un circuito combinacional que reciba como entrada un número binario natural de 5 bits y
+produzca como salida el valor del resto de la división de dicho número por 4.  Por ejemplo: si la
+entrada es 12, la salida es 0. Si la entrada es 4 la salida es 1, si la entrada es 13, la salida es
+1, si la entrada es 24 la salida es 0.  El circuito debe implementarse con la menor cantidad de
+compuertas de cualquier tipo y número de entradas.
+
+Ejercicio 2
+Diseñar y esquematizar un banco de memoria, (memorias más circuito de mapeo) para un procesador de
+16 bits de bus de datos y 20 bits de bus de direcciones con 256 Kbytes de ROM en las direcciones más
+bajas y 512 Kbytes de RAM en las direcciones más altas. Note que el procesador puede direccionar
+hasta un mega palabras de 16 bits cada una. Note también que un byte son 8 bits y que el bus de
+datos del procesador son 16 bits. El sistema no puede tener posiciones espejos. Las memorias deben
+ser del mayor tamaño posible en cada caso, pero limitadas con un bus de datos de 8 bits. Confeccione
+un mapa de direcciones indicando todos los rangos de direcciones tanto para la RAM, La ROM y las
+posiciones reservadas.
