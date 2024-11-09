@@ -14,7 +14,6 @@
 
 | Semana    |   Tema             |
 |-----------|--------------------|
-|  :----:   |  :----:            |
 | 11 nov    | Combinacionales    |
 | 18 nov    | Memoria            |
 | 25 nov    | ISA Datapath       |
