@@ -10,3 +10,13 @@
     - **soluciones** (TODO): Resoluciones de los ejercicios de final.
 - **contenido** : Resumenes de contenido.
 
+### Cronograma de temas
+
+| Semana    |   Tema             |
+|-----------|--------------------|
+|  :----:   |  :----:            |
+| 11 nov    | Combinacionales    |
+| 18 nov    | Memoria            |
+| 25 nov    | ISA Datapath       |
+| 2 - 6 dic | Examen a confirmar |
+
